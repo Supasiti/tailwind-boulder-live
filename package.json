@@ -1,0 +1,29 @@
+{
+  "name": "tailwind-boulder-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Supasiti/tailwind-boulder-live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Supasiti/tailwind-boulder-live/issues"
+  },
+  "homepage": "https://github.com/Supasiti/tailwind-boulder-live#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.11",
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.3"
+  }
+}
